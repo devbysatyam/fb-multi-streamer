@@ -1,6 +1,7 @@
 # 🚀 FB Multi Streamer (v0.1.6-PRO)
 
 [![Latest Release](https://img.shields.io/github/v/release/devbysatyam/fb-multi-streamer?color=blue&label=Download%20Latest)](https://github.com/devbysatyam/fb-multi-streamer/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/devbysatyam/fb-multi-streamer/total?color=blue&logo=github)](https://github.com/devbysatyam/fb-multi-streamer/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **The ultimate bulk live streaming companion for Facebook Pages.**
