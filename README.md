@@ -1,8 +1,20 @@
 # 🚀 FB Multi Streamer (v0.1.6-PRO)
 
+[![Latest Release](https://img.shields.io/github/v/release/devbysatyam/fb-multi-streamer?color=blue&label=Download%20Latest)](https://github.com/devbysatyam/fb-multi-streamer/releases/latest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > **The ultimate bulk live streaming companion for Facebook Pages.**
 
 FB Multi Streamer is a professional Electron-based application designed for content creators and marketers who need to stream video content across multiple Facebook pages simultaneously. Featuring GPU-accelerated processing, automated comment management, and a premium developer-focused UI.
+
+## 📥 Download
+
+**Looking for the app?**  
+Download the latest standalone Windows installer directly from the releases page:
+
+👉 **[Download FB Multi Streamer v0.1.6-PRO](https://github.com/devbysatyam/fb-multi-streamer/releases/latest)**
+
+---
 
 ![App Header](https://raw.githubusercontent.com/devbysatyam/fb-multi-streamer/main/public/app-logo.png)
 
