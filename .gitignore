@@ -1,0 +1,36 @@
+# Build and Tools
+node_modules
+dist
+dist-electron
+release
+*.local
+.env
+.env.*
+
+# SQLite & User Data
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+app.log
+userData/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDEs
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Packaging Artifacts
+release/*.exe
+release/*.blockmap
+release/*.yml
